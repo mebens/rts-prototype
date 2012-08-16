@@ -1,0 +1,6 @@
+[submodule "ammo"]
+  path = "lib/ammo"
+  url = "git://github.com/BlackBulletIV/ammo.git"
+[submodule "lib/strong"]
+  path = "lib/strong"
+  url = "git://github.com/BlackBulletIV/strong.git"
